@@ -5,7 +5,7 @@
 ---
 
 ## Требования
-Только Windows 10/11, установленный в системе python (в exe сами через pyinstaller соьберите, если надо)
+Только Windows 10/11, установленный в системе python (в exe сами через pyinstaller соберите, если надо)
 ## Установка библиотек
 ```bash
 pip install PyQt5 PyQtWebEngine
