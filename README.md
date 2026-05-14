@@ -5,7 +5,7 @@
 ---
 
 ## Требования
-Только Windows 10/11, установленный в системе python (в exe сами через pyinstaller соберите, если надо)
+Только Windows 10/11, установленный в системе python (либо просто скачайте готовый [exe файл](https://github.com/dm3tr-0/GhostBrowser/releases/download/latest/default.exe))
 ## Установка библиотек
 ```bash
 pip install PyQt5 PyQtWebEngine
