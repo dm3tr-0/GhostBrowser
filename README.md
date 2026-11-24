@@ -1,5 +1,7 @@
 # GhostBrowser
 
+[![GitHub all releases](https://img.shields.io/github/downloads/dm3tr-0/GhostBrowser/total.svg)](https://github.com/dm3tr-0/GhostBrowser/releases)
+
 ## Для чего
 
 Браузер, который не видно при записи экрана (Zoom, Teams, прокторинг) и скриншотах, не отображается в панели задач, трее и Alt+Tab/Win+Tab, курсор не меняется при наведении на ссылки или при нажатии на поля ввода текста.
